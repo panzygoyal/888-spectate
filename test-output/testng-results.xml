@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6280" started-at="2019-11-22T16:49:59 GMT" finished-at="2019-11-22T16:50:05 GMT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6280" started-at="2019-11-22T16:49:59 GMT" finished-at="2019-11-22T16:50:05 GMT">
+      <class name="test.UITest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:test.UITest@57536d79]" name="setup" is-config="true" duration-ms="2061" started-at="2019-11-22T16:49:59 GMT" finished-at="2019-11-22T16:50:01 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="browserURL()[pri:0, instance:test.UITest@57536d79]" name="browserURL" is-config="true" duration-ms="1049" started-at="2019-11-22T16:50:01 GMT" finished-at="2019-11-22T16:50:02 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserURL -->
+        <test-method status="PASS" signature="GoogleSearch_TC1()[pri:0, instance:test.UITest@57536d79]" name="GoogleSearch_TC1" duration-ms="1396" started-at="2019-11-22T16:50:02 GMT" finished-at="2019-11-22T16:50:03 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoogleSearch_TC1 -->
+        <test-method status="PASS" signature="browserURL()[pri:0, instance:test.UITest@57536d79]" name="browserURL" is-config="true" duration-ms="394" started-at="2019-11-22T16:50:03 GMT" finished-at="2019-11-22T16:50:04 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserURL -->
+        <test-method status="PASS" signature="GoogleSearch_TC2()[pri:0, instance:test.UITest@57536d79]" name="GoogleSearch_TC2" duration-ms="1202" started-at="2019-11-22T16:50:04 GMT" finished-at="2019-11-22T16:50:05 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoogleSearch_TC2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.UITest@57536d79]" name="tearDown" is-config="true" duration-ms="144" started-at="2019-11-22T16:50:05 GMT" finished-at="2019-11-22T16:50:05 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.UITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
